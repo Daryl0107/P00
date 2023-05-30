@@ -59,8 +59,8 @@ public class CalculatorTest {
 	@Test
 	public void testDiv() {
 		//fail("Not yet implemented");
-		int a=81;
-		int b=9;
+		int a=90;
+		int b=10;
 		Calculator cal=new Calculator();
 		int actual=cal.divide(a, b);
 		int expected=9;
